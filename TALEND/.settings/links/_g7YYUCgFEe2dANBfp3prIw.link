@@ -1,0 +1,79 @@
+{
+  "itemId" : "_g7YYUCgFEe2dANBfp3prIw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_noIDwPt8EeyQoJZseqjALQ",
+    "parameterList" : [ {
+      "id" : "_noyLEft8EeyQoJZseqjALQ",
+      "name" : "aws_accesskey_id"
+    }, {
+      "id" : "_noyLEvt8EeyQoJZseqjALQ",
+      "name" : "aws_secretkey"
+    }, {
+      "id" : "_675L8PunEeyX9MPaU1lAog",
+      "name" : "aws_source_bucket"
+    }, {
+      "id" : "_675L8funEeyX9MPaU1lAog",
+      "name" : "aws_source_key"
+    }, {
+      "id" : "_mLUy4PxeEeyHBdCdecgcNA",
+      "name" : "file_mask"
+    }, {
+      "id" : "_noyLFft8EeyQoJZseqjALQ",
+      "name" : "local_source_output_folder"
+    }, {
+      "id" : "_qSdfcANFEe23isoxsQLAfQ",
+      "name" : "local_source_reject_folder"
+    }, {
+      "id" : "_noyLFPt8EeyQoJZseqjALQ",
+      "name" : "local_source_upload_folder"
+    }, {
+      "id" : "_noyLE_t8EeyQoJZseqjALQ",
+      "name" : "parameterise_file_path"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_UdvZsCm3Ee2RvPxkBvhWjQ",
+    "parameterList" : [ {
+      "id" : "_Ud5KtSm3Ee2RvPxkBvhWjQ",
+      "name" : "DB_SNOWFLAKE_TARGET_Schema"
+    }, {
+      "id" : "_Ud5KsSm3Ee2RvPxkBvhWjQ",
+      "name" : "DB_SNOWFLAKE_TARGET_Account"
+    }, {
+      "id" : "_Ud5Ksym3Ee2RvPxkBvhWjQ",
+      "name" : "DB_SNOWFLAKE_TARGET_Database"
+    }, {
+      "id" : "_Ud5Ktim3Ee2RvPxkBvhWjQ",
+      "name" : "DB_SNOWFLAKE_TARGET_Password"
+    }, {
+      "id" : "_Ud5KtCm3Ee2RvPxkBvhWjQ",
+      "name" : "DB_SNOWFLAKE_TARGET_Warehouse"
+    }, {
+      "id" : "_Ud5Ksim3Ee2RvPxkBvhWjQ",
+      "name" : "DB_SNOWFLAKE_TARGET_USERID"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_t9vAoCiPEe2gQIaIobvPFw",
+    "parameterList" : [ {
+      "id" : "_t99qJSiPEe2gQIaIobvPFw",
+      "name" : "DB_SNOWFLAKE_STAGING_Account"
+    }, {
+      "id" : "_t99qISiPEe2gQIaIobvPFw",
+      "name" : "DB_SNOWFLAKE_STAGING_Password"
+    }, {
+      "id" : "_t99qIiiPEe2gQIaIobvPFw",
+      "name" : "DB_SNOWFLAKE_STAGING_Database"
+    }, {
+      "id" : "_t99qJCiPEe2gQIaIobvPFw",
+      "name" : "DB_SNOWFLAKE_STAGING_Schema"
+    }, {
+      "id" : "_t99qIyiPEe2gQIaIobvPFw",
+      "name" : "DB_SNOWFLAKE_STAGING_Warehouse"
+    }, {
+      "id" : "_t99qICiPEe2gQIaIobvPFw",
+      "name" : "DB_SNOWFLAKE_STAGING_USERID"
+    } ]
+  } ]
+}

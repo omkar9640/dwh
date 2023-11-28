@@ -1,0 +1,307 @@
+{
+  "itemId" : "_zpXhcCgFEe2dANBfp3prIw",
+  "contextList" : [ {
+    "contextName" : "Dev",
+    "repoId" : "_W5lEUBKdEe2B_f1wtoJzjg",
+    "parameterList" : [ {
+      "id" : "_Uw7EgCnwEe2_t7jheH61MA",
+      "name" : "Custom_ErrorMessage"
+    }, {
+      "id" : "_W6dOGBKdEe2B_f1wtoJzjg",
+      "name" : "SOURCE_COUNT"
+    }, {
+      "id" : "_W6dOGhKdEe2B_f1wtoJzjg",
+      "name" : "LOOKUP_COUNT"
+    }, {
+      "id" : "_vd8qIBPeEe2efu_VwKsHNw",
+      "name" : "job_id"
+    }, {
+      "id" : "_W6dOFRKdEe2B_f1wtoJzjg",
+      "name" : "JOB_RUN_STATUS"
+    }, {
+      "id" : "_W6dOExKdEe2B_f1wtoJzjg",
+      "name" : "JOBNAME"
+    }, {
+      "id" : "_VNEAEBMJEe2hvcoy9XQ6AQ",
+      "name" : "maxExecution_Key"
+    }, {
+      "id" : "_W6dOGRKdEe2B_f1wtoJzjg",
+      "name" : "TARGET_COUNT"
+    }, {
+      "id" : "_W6dOGxKdEe2B_f1wtoJzjg",
+      "name" : "REJECT_COUNT"
+    }, {
+      "id" : "_W6dOFBKdEe2B_f1wtoJzjg",
+      "name" : "PROJECT_NAME"
+    }, {
+      "id" : "_W6dOEhKdEe2B_f1wtoJzjg",
+      "name" : "PROCESS_ID"
+    } ]
+  }, {
+    "contextName" : "Dev",
+    "repoId" : "_KdBgYI0xEe6Ymd5FwNstpg",
+    "parameterList" : [ {
+      "id" : "_KdwgQ40xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_TARGET_Schema"
+    }, {
+      "id" : "_KdwgM40xEe6Ymd5FwNstpg",
+      "name" : "local_source_upload_folder"
+    }, {
+      "id" : "_KdwgNI0xEe6Ymd5FwNstpg",
+      "name" : "local_source_output_folder"
+    }, {
+      "id" : "_KdwgOY0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_STAGING_Account"
+    }, {
+      "id" : "_KdwgOI0xEe6Ymd5FwNstpg",
+      "name" : "file_mask"
+    }, {
+      "id" : "_KdwgQY0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_TARGET_Database"
+    }, {
+      "id" : "_KdwgRI0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_TARGET_Password"
+    }, {
+      "id" : "_KdwgPY0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_STAGING_Schema"
+    }, {
+      "id" : "_KdwgQo0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_TARGET_Warehouse"
+    }, {
+      "id" : "_KdwgPI0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_STAGING_Warehouse"
+    }, {
+      "id" : "_KdwgMo0xEe6Ymd5FwNstpg",
+      "name" : "aws_secretkey"
+    }, {
+      "id" : "_KdwgOo0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_STAGING_USERID"
+    }, {
+      "id" : "_KdwgNo0xEe6Ymd5FwNstpg",
+      "name" : "aws_source_bucket"
+    }, {
+      "id" : "_KdwgO40xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_STAGING_Database"
+    }, {
+      "id" : "_KdwgPo0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_STAGING_Password"
+    }, {
+      "id" : "_KdwgNY0xEe6Ymd5FwNstpg",
+      "name" : "local_source_reject_folder"
+    }, {
+      "id" : "_KdwgP40xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_TARGET_Account"
+    }, {
+      "id" : "_KdwgMY0xEe6Ymd5FwNstpg",
+      "name" : "aws_accesskey_id"
+    }, {
+      "id" : "_KdwgN40xEe6Ymd5FwNstpg",
+      "name" : "aws_source_key"
+    }, {
+      "id" : "_KdwgQI0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_TARGET_USERID"
+    } ]
+  }, {
+    "contextName" : "QA",
+    "repoId" : "_W5lEUBKdEe2B_f1wtoJzjg",
+    "parameterList" : [ {
+      "id" : "_Uw7EgCnwEe2_t7jheH61MA",
+      "name" : "Custom_ErrorMessage"
+    }, {
+      "id" : "_W6dOGBKdEe2B_f1wtoJzjg",
+      "name" : "SOURCE_COUNT"
+    }, {
+      "id" : "_W6dOGhKdEe2B_f1wtoJzjg",
+      "name" : "LOOKUP_COUNT"
+    }, {
+      "id" : "_vd8qIBPeEe2efu_VwKsHNw",
+      "name" : "job_id"
+    }, {
+      "id" : "_W6dOFRKdEe2B_f1wtoJzjg",
+      "name" : "JOB_RUN_STATUS"
+    }, {
+      "id" : "_W6dOExKdEe2B_f1wtoJzjg",
+      "name" : "JOBNAME"
+    }, {
+      "id" : "_VNEAEBMJEe2hvcoy9XQ6AQ",
+      "name" : "maxExecution_Key"
+    }, {
+      "id" : "_W6dOGRKdEe2B_f1wtoJzjg",
+      "name" : "TARGET_COUNT"
+    }, {
+      "id" : "_W6dOGxKdEe2B_f1wtoJzjg",
+      "name" : "REJECT_COUNT"
+    }, {
+      "id" : "_W6dOFBKdEe2B_f1wtoJzjg",
+      "name" : "PROJECT_NAME"
+    }, {
+      "id" : "_W6dOEhKdEe2B_f1wtoJzjg",
+      "name" : "PROCESS_ID"
+    } ]
+  }, {
+    "contextName" : "QA",
+    "repoId" : "_KdBgYI0xEe6Ymd5FwNstpg",
+    "parameterList" : [ {
+      "id" : "_KdwgWI0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_TARGET_Schema"
+    }, {
+      "id" : "_KdwgSI0xEe6Ymd5FwNstpg",
+      "name" : "local_source_upload_folder"
+    }, {
+      "id" : "_KdwgSY0xEe6Ymd5FwNstpg",
+      "name" : "local_source_output_folder"
+    }, {
+      "id" : "_KdwgTo0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_STAGING_Account"
+    }, {
+      "id" : "_KdwgTY0xEe6Ymd5FwNstpg",
+      "name" : "file_mask"
+    }, {
+      "id" : "_KdwgVo0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_TARGET_Database"
+    }, {
+      "id" : "_KdwgWY0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_TARGET_Password"
+    }, {
+      "id" : "_KdwgUo0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_STAGING_Schema"
+    }, {
+      "id" : "_KdwgV40xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_TARGET_Warehouse"
+    }, {
+      "id" : "_KdwgUY0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_STAGING_Warehouse"
+    }, {
+      "id" : "_KdwgR40xEe6Ymd5FwNstpg",
+      "name" : "aws_secretkey"
+    }, {
+      "id" : "_KdwgT40xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_STAGING_USERID"
+    }, {
+      "id" : "_KdwgS40xEe6Ymd5FwNstpg",
+      "name" : "aws_source_bucket"
+    }, {
+      "id" : "_KdwgUI0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_STAGING_Database"
+    }, {
+      "id" : "_KdwgU40xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_STAGING_Password"
+    }, {
+      "id" : "_KdwgSo0xEe6Ymd5FwNstpg",
+      "name" : "local_source_reject_folder"
+    }, {
+      "id" : "_KdwgVI0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_TARGET_Account"
+    }, {
+      "id" : "_KdwgRo0xEe6Ymd5FwNstpg",
+      "name" : "aws_accesskey_id"
+    }, {
+      "id" : "_KdwgTI0xEe6Ymd5FwNstpg",
+      "name" : "aws_source_key"
+    }, {
+      "id" : "_KdwgVY0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_TARGET_USERID"
+    } ]
+  }, {
+    "contextName" : "Production",
+    "repoId" : "_W5lEUBKdEe2B_f1wtoJzjg",
+    "parameterList" : [ {
+      "id" : "_Uw7EgCnwEe2_t7jheH61MA",
+      "name" : "Custom_ErrorMessage"
+    }, {
+      "id" : "_W6dOGBKdEe2B_f1wtoJzjg",
+      "name" : "SOURCE_COUNT"
+    }, {
+      "id" : "_W6dOGhKdEe2B_f1wtoJzjg",
+      "name" : "LOOKUP_COUNT"
+    }, {
+      "id" : "_vd8qIBPeEe2efu_VwKsHNw",
+      "name" : "job_id"
+    }, {
+      "id" : "_W6dOFRKdEe2B_f1wtoJzjg",
+      "name" : "JOB_RUN_STATUS"
+    }, {
+      "id" : "_W6dOExKdEe2B_f1wtoJzjg",
+      "name" : "JOBNAME"
+    }, {
+      "id" : "_VNEAEBMJEe2hvcoy9XQ6AQ",
+      "name" : "maxExecution_Key"
+    }, {
+      "id" : "_W6dOGRKdEe2B_f1wtoJzjg",
+      "name" : "TARGET_COUNT"
+    }, {
+      "id" : "_W6dOGxKdEe2B_f1wtoJzjg",
+      "name" : "REJECT_COUNT"
+    }, {
+      "id" : "_W6dOFBKdEe2B_f1wtoJzjg",
+      "name" : "PROJECT_NAME"
+    }, {
+      "id" : "_W6dOEhKdEe2B_f1wtoJzjg",
+      "name" : "PROCESS_ID"
+    } ]
+  }, {
+    "contextName" : "Production",
+    "repoId" : "_KdBgYI0xEe6Ymd5FwNstpg",
+    "parameterList" : [ {
+      "id" : "_KdwgbY0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_TARGET_Schema"
+    }, {
+      "id" : "_KdwgXY0xEe6Ymd5FwNstpg",
+      "name" : "local_source_upload_folder"
+    }, {
+      "id" : "_KdwgXo0xEe6Ymd5FwNstpg",
+      "name" : "local_source_output_folder"
+    }, {
+      "id" : "_KdwgY40xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_STAGING_Account"
+    }, {
+      "id" : "_KdwgYo0xEe6Ymd5FwNstpg",
+      "name" : "file_mask"
+    }, {
+      "id" : "_Kdwga40xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_TARGET_Database"
+    }, {
+      "id" : "_Kdwgbo0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_TARGET_Password"
+    }, {
+      "id" : "_KdwgZ40xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_STAGING_Schema"
+    }, {
+      "id" : "_KdwgbI0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_TARGET_Warehouse"
+    }, {
+      "id" : "_KdwgZo0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_STAGING_Warehouse"
+    }, {
+      "id" : "_KdwgXI0xEe6Ymd5FwNstpg",
+      "name" : "aws_secretkey"
+    }, {
+      "id" : "_KdwgZI0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_STAGING_USERID"
+    }, {
+      "id" : "_KdwgYI0xEe6Ymd5FwNstpg",
+      "name" : "aws_source_bucket"
+    }, {
+      "id" : "_KdwgZY0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_STAGING_Database"
+    }, {
+      "id" : "_KdwgaI0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_STAGING_Password"
+    }, {
+      "id" : "_KdwgX40xEe6Ymd5FwNstpg",
+      "name" : "local_source_reject_folder"
+    }, {
+      "id" : "_KdwgaY0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_TARGET_Account"
+    }, {
+      "id" : "_KdwgW40xEe6Ymd5FwNstpg",
+      "name" : "aws_accesskey_id"
+    }, {
+      "id" : "_KdwgYY0xEe6Ymd5FwNstpg",
+      "name" : "aws_source_key"
+    }, {
+      "id" : "_Kdwgao0xEe6Ymd5FwNstpg",
+      "name" : "DB_SNOWFLAKE_TARGET_USERID"
+    } ]
+  } ]
+}
